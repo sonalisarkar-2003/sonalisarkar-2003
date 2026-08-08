@@ -10,14 +10,9 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skills                                        | Associated Project/Hands-on lab         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Web Application Security & VAPT                         | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|
 
 ## Tools
 
@@ -40,6 +35,5 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wazuh-3C8DBC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Projects / Hands-on Labs
+- <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>
