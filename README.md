@@ -10,9 +10,10 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skills                                        | Associated Project/Hands-on lab         |
-|-----------------------------------------------|----------------------------|
-| Web Application Security & VAPT                         | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|
+| Skills                                        | Associated Project/Hands-on lab                                                                         |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Web Application Security & VAPT               | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|
+|                                               | 
 
 ## Tools
 
@@ -26,7 +27,7 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 
 ### Endpoint
 <div>
-   <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Sysmon-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
    <img src="https://img.shields.io/badge/-Wazuh-3C8DBC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
