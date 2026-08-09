@@ -13,7 +13,7 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 | Skills                                         | Associated Project/Hands-on lab                                                                         |
 |---------------------------------------------- -|---------------------------------------------------------------------------------------------------------|
 | Web Application Security & VAPT                | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|
-| Endpoint Security Monitoring & Threat Detection| 
+| Endpoint Security Monitoring & Threat Detection|                                                                                                         |
 
 ## Tools
 
