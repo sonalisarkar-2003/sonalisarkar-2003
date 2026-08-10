@@ -26,23 +26,56 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
+### Network Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ncat-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-hping3-000000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Aircrack--ng-1679A7?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
    <img src="https://img.shields.io/badge/-Microsoft%20Sysmon-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Event%20Viewer-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
    <img src="https://img.shields.io/badge/-Wazuh-3C8DBC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-3C8DBC?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### VAPT
+<div>
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
+
+### Web Application Security
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20Juice%20Shop-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/-DVWA-CC0000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Podman-892CA0?&style=for-the-badge&logo=podman&logoColor=white" />
+</div>
+
+### Wireless Security/ Wi-Fi Auditing
+<div>
+   <img src="https://img.shields.io/badge/-Aircrack--ng-1679A7?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Crunch-000000?&style=for-the-badge" />
+</div>
+
+### Labs/ Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploitable%202-000000?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Windows%207-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ## Projects / Hands-on Labs
