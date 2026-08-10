@@ -12,8 +12,9 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 
 | Skills                                         | Associated Project/Hands-on lab                                                                         |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Web Application Security & VAPT                | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|
-| Endpoint Security Monitoring & Threat Detection| <a href="https://github.com/sonalisarkar-2003/Basic-Endpoint-Security-Monitoring-using-Sysmon/tree/main">Basic Endpoint Security Monitoring Using Sysmon</a>|                                                                                                        |
+| Endpoint Security Monitoring & Threat Detection| <a href="https://github.com/sonalisarkar-2003/Basic-Endpoint-Security-Monitoring-using-Sysmon/tree/main">Basic Endpoint Security Monitoring Using Sysmon</a> |
+| Wi-Fi Security Auditing |<a href="https://github.com/sonalisarkar-2003/Basic-Endpoint-Security-Monitoring-using-Sysmon/tree/main">Wi-Fi Network Auditing using Aircrack-ng</a>
+| Web Application Security & VAPT                | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|                                                                                                        |
 
 ## Tools
 
