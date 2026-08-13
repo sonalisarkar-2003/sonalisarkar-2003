@@ -14,10 +14,10 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | Endpoint Security Monitoring & Threat Detection| <a href="https://github.com/sonalisarkar-2003/Basic-Endpoint-Security-Monitoring-using-Sysmon/tree/main">Basic Endpoint Security Monitoring Using Sysmon</a> |
 | Wi-Fi Security Auditing |<a href="https://github.com/sonalisarkar-2003/Wi-Fi-Network-Auditing-using-Aircrack-ng/tree/main">Wi-Fi Network Auditing using Aircrack-ng</a>
-| Web Application Security & VAPT| <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|      
+| Web Application Security & VAPT| <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA HTTP Credential Exposure VAPT Report</a>|      
 | Remote Access Security |<a href="https://github.com/sonalisarkar-2003/Telnet-Report/tree/main">Telnet Report</a>|
 | Intrusion Detection| <a href="https://github.com/sonalisarkar-2003/Suricata-Report/tree/main">Suricata Report</a>|
-|Vulnerability Exploitation |<a href="https://github.com/sonalisarkar-2003/vsFTPd-2.3.4-backdoor/tree/main">vsFTPd 2.3.4 backdoor</a>|
+|Vulnerability Exploitation |<a href="https://github.com/sonalisarkar-2003/vsFTPd-2.3.4-backdoor/tree/main">FTP vsFTPD CVE-2011-2523 VAPT Report</a>|
 |Web Application Security | <a href="https://github.com/sonalisarkar-2003/IDOR-OWASP-Juice-Shop/tree/main">IDOR-OWASP Juice Shop</a>|
 |Network Traffic Analysis |<a href="https://github.com/sonalisarkar-2003/Packet-Crafting-Report/tree/main">Packet Crafting Report</a>|
 |Denial-of-Service (DoS) Testing |<a href="https://github.com/sonalisarkar-2003/SYN-Flood-Attack/tree/main">SYN Flood Attack</a>|
