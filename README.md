@@ -16,7 +16,7 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 | Wi-Fi Security Auditing |<a href="https://github.com/sonalisarkar-2003/Wi-Fi-Network-Auditing-using-Aircrack-ng/tree/main">Wi-Fi Network Auditing using Aircrack-ng</a>
 | Web Application Security & VAPT| <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">DVWA-Metasploitable-2</a>|      
 | Remote Access Security |<a href="https://github.com/sonalisarkar-2003/Telnet-Report/tree/main">Telnet Report</a>|
-| Intrusion Detection| <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">Suricata Report</a>|
+| Intrusion Detection| <a href="https://github.com/sonalisarkar-2003/Suricata-Report/tree/main">Suricata Report</a>|
 |Vulnerability Exploitation |<a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">vsFTPd 2.3.4 backdoor</a>|
 |Web Application Security | <a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">IDOR-OWASP Juice Shop</a>|
 |Network Traffic Analysis |<a href="https://github.com/sonalisarkar-2003/DVWA-Metasploitable-2/tree/main">Packet Crafting Report</a>|
