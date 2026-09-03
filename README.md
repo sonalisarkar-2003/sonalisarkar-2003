@@ -64,10 +64,11 @@ My journey in Forensic science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Podman-892CA0?&style=for-the-badge&logo=podman&logoColor=white" />
 </div>
 
-### Wireless Security/ Wi-Fi Auditing
+### Wireless Security/ Security Auditing
 <div>
    <img src="https://img.shields.io/badge/-Aircrack--ng-1679A7?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Crunch-000000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?&style=for-the-badge" />
 </div>
 
 ### Labs/ Virtualization
